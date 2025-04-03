@@ -1,0 +1,12 @@
+{
+  "name": "maystream",
+  "version": "1.0.0",
+  "description": "Simulador de OBS para Termux",
+  "main": "maystream.js",
+  "bin": {
+    "maystream": "./maystream.js"
+  },
+  "dependencies": {},
+  "author": "SoyMaycol",
+  "license": "MIT"
+}
